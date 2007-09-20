@@ -1,0 +1,11 @@
+<module>
+	<rawname>wakeup</rawname>
+	<name>Wakeup</name>
+	<version>1.0</version>
+	<type>setup</type>
+	<category>Provides a Feature Code</category>
+	<description>Provides Wakeup call</description>
+	<location>release/wakeup-1.0.tgz</location>
+	<info>http://aussievoip.com.au/wiki/freePBX-Features</info>
+	<md5sum>40a60ac6a9edaee125f6f1c6887260c1</md5sum>
+</module>
