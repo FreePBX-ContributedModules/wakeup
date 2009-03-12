@@ -3,7 +3,7 @@
 	<name>Wakeup</name>
 	<version>1.0</version>
 	<type>setup</type>
-	<category>Provides a Feature Code</category>
+	<category>Third Party Addon</category>
 	<description>Provides Wakeup call</description>
 	<location>release/wakeup-1.0.tgz</location>
 	<info>http://aussievoip.com.au/wiki/freePBX-Features</info>
